@@ -11,6 +11,8 @@ problem_text_2.txt
 problem_text_3.txt
 problem_text_4.txt
 ….. And so on
+
+code to scrap web that i used is present in this link "https://github.com/RamaHemanth/Webscrapping-code-for-dsa-search-engine".
 problem_urls.txt ->Text file containing the URLs of all the scraped problems separated by ‘\n’ 
 problem_titles.txt -> Text file containing the Titles of all the scraped problems separated by ‘\n’
 keywords.txt -> Contains all the unique keywords (across all the documents) in a sorted way.
